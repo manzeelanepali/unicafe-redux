@@ -12,7 +12,7 @@ const App = () => {
     })
   }
 
-  j payi tei
+
 
   return (
     <div>
