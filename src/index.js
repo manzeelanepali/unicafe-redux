@@ -12,6 +12,8 @@ const App = () => {
     })
   }
 
+  j payi
+
   return (
     <div>
       <button onClick={good}>good</button>
